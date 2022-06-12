@@ -1,2 +1,1 @@
-# sprint-mini-node-server
-client-server 
+# mini-node-server
